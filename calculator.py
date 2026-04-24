@@ -1,5 +1,5 @@
 def calculate(a, b):
-    result = a + b   # ← 충돌 포인트
+    result = a + b   # 덧셈 기능 추가
     return result
 
 print(calculate(3, 4))
